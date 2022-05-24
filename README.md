@@ -9,7 +9,7 @@ I’m interested in:
 
 Currently just dipping my toes in tech I learn in uni or that interests me practically
 
-- 📫 How to reach me wjordan68@gmail.com
+- 📫reach me at wjordan68@gmail.com
 
 <!---
 wizziid/wizziid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
