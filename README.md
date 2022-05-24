@@ -1,6 +1,6 @@
 👋 Hi, I’m Will
 
-I'm a computer science student at Victoria University Wellington.
+Currently a computer science student at Victoria University Wellington.
 
 I’m interested in:
 - Web development using Django
