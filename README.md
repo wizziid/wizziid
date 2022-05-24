@@ -7,7 +7,7 @@ I’m interested in:
 - Automation/botting using image recognition/machine learning
 - Embedded Systems programming
 
-Currently just dipping my toes in tech I learn in uni or that interests me practically
+Dipping my toes in tech I learn in uni or that interests me practically
 
 - 📫reach me at wjordan68@gmail.com
 
